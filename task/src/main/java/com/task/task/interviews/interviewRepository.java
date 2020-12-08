@@ -1,4 +1,4 @@
-package com.example.demo.interviews;
+package com.example.task.interviews;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

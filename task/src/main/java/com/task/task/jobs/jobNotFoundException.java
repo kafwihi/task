@@ -1,4 +1,4 @@
-package com.example.demo.jobs;
+package com.example.task.jobs;
 
 public class jobNotFoundException extends Exception {
         private String jobname;

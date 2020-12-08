@@ -1,14 +1,14 @@
-package com.example.demo.applicants;
+package com.example.task.applicants;
 
 import java.util.TreeSet;
 import java.util.List;
 import java.util.ArrayList;
-import com.example.demo.applicants.applicantModel;
-import com.example.demo.interviews.bookModel;
-import com.example.demo.interviews.interviewNotFoundException;
-import com.example.demo.jobs.jobRepository;
-import com.example.demo.jobs.jobModel;
-import com.example.demo.jobs.jobNotFoundException;
+import com.example.task.applicants.applicantModel;
+import com.example.task.interviews.bookModel;
+import com.example.task.interviews.interviewNotFoundException;
+import com.example.task.jobs.jobRepository;
+import com.example.task.jobs.jobModel;
+import com.example.task.jobs.jobNotFoundException;
 //import com.example.demo.interviews.interviewNotFoundException;
 import com.example.demo.interviews.interviewRepository;
 import javax.transaction.Status;

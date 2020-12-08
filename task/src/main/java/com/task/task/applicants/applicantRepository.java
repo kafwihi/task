@@ -1,4 +1,4 @@
-package com.example.demo.applicants;
+package com.example.task.applicants;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

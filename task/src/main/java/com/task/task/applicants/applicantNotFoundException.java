@@ -1,4 +1,4 @@
-package com.example.demo.applicants;
+package com.example.task.applicants;
 
 public class applicantNotFoundException extends Exception {
         private String username;

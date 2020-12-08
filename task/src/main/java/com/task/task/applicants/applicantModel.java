@@ -1,4 +1,4 @@
-package com.example.demo.applicants;
+package com.example.task.applicants;
 
 import java.io.Serializable;
 import javax.persistence.JoinColumn;
@@ -14,8 +14,8 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 //import javax.validation.constraints.NotBlank;
 
-import com.example.demo.interviews.bookModel;
-import com.example.demo.jobs.jobModel;
+import com.example.task.interviews.bookModel;
+import com.example.task.jobs.jobModel;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 //import lyrn.school.school.examination.model.StudentEnroll;
 //import lyrn.school.school.subjects.model.StudentSubjectEnroll;

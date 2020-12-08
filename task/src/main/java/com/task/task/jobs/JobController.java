@@ -1,8 +1,8 @@
-package com.example.demo.jobs;
+package com.example.task.jobs;
 
     import java.util.List;
-    import com.example.demo.jobs.jobModel;
-    import com.example.demo.applicants.applicantModel;
+    import com.example.task.jobs.jobModel;
+    import com.example.task.applicants.applicantModel;
     import javax.transaction.Status;
     //import javax.validation.Valid;
     import org.springframework.beans.factory.annotation.Autowired;

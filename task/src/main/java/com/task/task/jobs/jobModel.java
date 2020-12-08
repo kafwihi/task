@@ -1,4 +1,4 @@
-package com.example.demo.jobs;
+package com.example.task.jobs;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -12,8 +12,8 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 //import javax.validation.constraints.NotBlank;
 
-import com.example.demo.applicants.applicantModel;
-import com.example.demo.interviews.bookModel;
+import com.example.task.applicants.applicantModel;
+import com.example.task.interviews.bookModel;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 //import lyrn.school.school.examination.model.StudentEnroll;
 //import lyrn.school.school.subjects.model.StudentSubjectEnroll;

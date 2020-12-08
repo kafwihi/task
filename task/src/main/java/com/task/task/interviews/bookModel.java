@@ -1,4 +1,4 @@
-package com.example.demo.interviews;
+package com.example.task.interviews;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -13,8 +13,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-import com.example.demo.applicants.applicantModel;
-import com.example.demo.jobs.jobModel;
+import com.example.task.applicants.applicantModel;
+import com.example.task.jobs.jobModel;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 //import lyrn.school.school.admission.model.Student;
 

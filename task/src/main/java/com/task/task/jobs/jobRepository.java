@@ -1,4 +1,4 @@
-package com.example.demo.jobs;
+package com.example.task.jobs;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

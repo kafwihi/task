@@ -1,4 +1,4 @@
-package com.example.demo.interviews;
+package com.example.task.interviews;
 
 public class interviewNotFoundException extends Exception {
         private String username;
