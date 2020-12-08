@@ -9,7 +9,7 @@ import java.util.Optional;
 //import org.springframework.data.repository.Query;
 import java.util.List;
 
-import com.example.demo.interviews.bookModel;
+import com.example.task.interviews.bookModel;
 import javax.transaction.Status;
 
 @Repository

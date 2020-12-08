@@ -1,7 +1,7 @@
 package com.example.task.security.service;
 
-import  com.example.demo.security.model.UserInfo;
-import  com.example.demo.security.repository.UserInfoRepository;
+import  com.example.task.security.model.UserInfo;
+import  com.example.task.security.repository.UserInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

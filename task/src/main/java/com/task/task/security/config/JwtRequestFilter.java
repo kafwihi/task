@@ -1,7 +1,7 @@
 
 package com.example.task.security.config;
 
-import com.example.demo.security.service.JwtUserDetailsService;
+import com.example.task.security.service.JwtUserDetailsService;
 import io.jsonwebtoken.ExpiredJwtException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

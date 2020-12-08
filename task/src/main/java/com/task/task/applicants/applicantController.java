@@ -10,7 +10,7 @@ import com.example.task.jobs.jobRepository;
 import com.example.task.jobs.jobModel;
 import com.example.task.jobs.jobNotFoundException;
 //import com.example.demo.interviews.interviewNotFoundException;
-import com.example.demo.interviews.interviewRepository;
+import com.example.task.interviews.interviewRepository;
 import javax.transaction.Status;
 //import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

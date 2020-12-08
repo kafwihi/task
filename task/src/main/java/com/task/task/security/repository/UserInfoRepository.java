@@ -1,7 +1,7 @@
 
 package com.example.task.security.repository;
 
-import  com.example.demo.security.model.UserInfo;
+import  com.example.task.security.model.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

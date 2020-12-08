@@ -5,9 +5,9 @@ import java.security.NoSuchAlgorithmException;
 import java.util.List;
 import java.util.Map;
 
-import com.example.demo.security.exceptions.ValidationException;
-import com.example.demo.security.model.UserInfo;
-import com.example.demo.security.repository.UserInfoRepository;
+import com.example.task.security.exceptions.ValidationException;
+import com.example.task.security.model.UserInfo;
+import com.example.task.security.repository.UserInfoRepository;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.web.bind.annotation.GetMapping;

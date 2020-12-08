@@ -1,9 +1,9 @@
 
 package com.example.task.security.controller;
 
-import com.example.demo.security.model.JwtRequest;
-import com.example.demo.security.model.JwtResponse;
-import com.example.demo.security.service.JwtUserDetailsService;
+import com.example.task.security.model.JwtRequest;
+import com.example.task.security.model.JwtResponse;
+import com.example.task.security.service.JwtUserDetailsService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -12,7 +12,7 @@ import org.springframework.security.authentication.DisabledException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.web.bind.annotation.*;
-import com.example.demo.security.config.JwtToken;
+import com.example.task.security.config.JwtToken;
 import org.springframework.security.authentication.AuthenticationManager;
 
 @RestController
