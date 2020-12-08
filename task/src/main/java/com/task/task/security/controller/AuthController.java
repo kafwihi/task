@@ -1,5 +1,5 @@
 
-package com.example.demo.security.controller;
+package com.example.task.security.controller;
 
 import com.example.demo.security.model.JwtRequest;
 import com.example.demo.security.model.JwtResponse;

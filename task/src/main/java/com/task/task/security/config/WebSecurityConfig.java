@@ -1,4 +1,4 @@
-package com.example.demo.security.config;
+package com.example.task.security.config;
 
 import com.example.demo.security.service.JwtUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;

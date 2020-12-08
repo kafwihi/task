@@ -1,5 +1,5 @@
 
-package com.example.demo.security.exceptions;
+package com.example.task.security.exceptions;
 
 
 import lombok.extern.slf4j.Slf4j;

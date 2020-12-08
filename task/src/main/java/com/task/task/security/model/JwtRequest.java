@@ -1,4 +1,4 @@
-package com.example.demo.security.model;
+package com.example.task.security.model;
 
 import java.io.Serializable;
 

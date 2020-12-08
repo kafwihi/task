@@ -1,5 +1,5 @@
 
-package com.example.demo.security.repository;
+package com.example.task.security.repository;
 
 import  com.example.demo.security.model.UserInfo;
 import org.springframework.data.jpa.repository.JpaRepository;

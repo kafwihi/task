@@ -1,4 +1,4 @@
-package com.example.demo.security.service;
+package com.example.task.security.service;
 
 import  com.example.demo.security.model.UserInfo;
 import  com.example.demo.security.repository.UserInfoRepository;
